@@ -33,7 +33,7 @@
 
 ## About
 
-List of all handcrafted airports from Standard Edition and World Updates (apart from Deluxe/Premium Edition ones) and bonus premium like freeware (with links).
+List of all handcrafted airports from Standard Edition and World Updates (apart from Deluxe/Premium Edition ones).
 
 ## North America
 
@@ -194,7 +194,6 @@ List of all handcrafted airports from Standard Edition and World Updates (apart 
 
 ### Iberia
 
-    Alicante Airport (ICAO: LEAL) -> [Download](https://flightsim.to/file/20416/alicante-airport-leal)
     Andorra-La Seu d'Urgell Airport (ICAO: LESU)
     Pico Airport (ICAO: LPPI)
     Faro Airport (ICAO: LPFR)
