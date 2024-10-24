@@ -25,7 +25,7 @@
   - [Europe](#europe)
   - [Eastern Europe](#eastern-europe)
     - [France](#france)
-    - [Germany, Austria, Switzerland](#germany-austria-switzerland)
+    - [Benelux, Germany etc](#benelux-germany-etc)
     - [Iberia](#iberia)
     - [Italy, Malta](#italy-malta)
     - [Nordics, Greenland](#nordics-greenland)
@@ -33,7 +33,7 @@
 
 ## About
 
-List of all handcrafted airports from Standard Edition and World Updates (apart from Deluxe/Premium Edition ones).
+List of all handcrafted airports from Standard Edition and World Updates (apart from Deluxe/Premium Edition ones) and various freeware high quality airports with a links.
 
 ## North America
 
@@ -176,10 +176,10 @@ List of all handcrafted airports from Standard Edition and World Updates (apart 
     Courchevel Altiport (ICAO: LFLJ)
     Megève Altiport (ICAO: LFHM)
     Nice Côte d'Azur Airport (ICAO: LFMN)
+
+### Benelux, Germany etc
+
     Rotterdam The Hague Airport (ICAO: EHRD)
-
-### Germany, Austria, Switzerland
-
     Klagenfurt Airport (ICAO: LOWK)
     Lübeck Airport (ICAO: EDHL)
     St. Gallen-Altenrhein Airport (ICAO: LSZR)
